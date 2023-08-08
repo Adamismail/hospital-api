@@ -1,0 +1,15 @@
+{
+  "name": "hospital-api",
+  "version": "1.0.0",
+  "description": "API for the doctors of a hospital which has been allocated by the govt for testing and quarantine + wellbeing of COVID-19 patients..",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.2"
+  }
+}
